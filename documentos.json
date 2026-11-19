@@ -1,0 +1,80 @@
+{
+  "carpeta_destino": "archivos_generados",
+  "versiones_por_defecto": 2,
+  "tipo_por_defecto": "pdf",
+  "organizar_por_categoria": false,
+  "documentos": [
+    {
+      "categoria": "PMGD",
+      "nombre": "PMGD-DeclaraciónConstrucción",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "PMGD",
+      "nombre": "PMGD-ICC",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "Retiro",
+      "nombre": "Retiro-DUF",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "Retiro",
+      "nombre": "Retiro-F22",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "Retiro",
+      "nombre": "Retiro-ResolucionExenta",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "Retiro",
+      "nombre": "Retiro-SITR",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "MNR",
+      "nombre": "MNR-DUF",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "MNR",
+      "nombre": "MNR-OtrosDoc",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "NI",
+      "nombre": "NI-DUF",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "NI",
+      "nombre": "NI-DEE",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "NI",
+      "nombre": "NI-UGT",
+      "tipo": "pdf",
+      "versiones": 2
+    },
+    {
+      "categoria": "NI",
+      "nombre": "NI-DeclaracionConstruccion",
+      "tipo": "pdf",
+      "versiones": 2
+    }
+  ]
+}

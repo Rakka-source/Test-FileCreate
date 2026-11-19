@@ -1,0 +1,11 @@
+# Carpeta destino de archivos de prueba generados
+archivos_generados/
+
+# Entorno virtual y archivos temporales de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
